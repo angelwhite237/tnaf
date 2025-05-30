@@ -14,7 +14,7 @@ body {
   background: white;
   padding: 10px;
   border-radius: 8px;
-[22/05 16:39] ChatGPT: box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
   overflow: hidden;
 }
 
